@@ -1,3 +1,11 @@
+
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A portrait of a developer working on a laptop.",
+      "imageUrl": "https://picsum.photos/seed/kundan-hero/1920/1080",
+      "imageHint": "developer portrait"
+    }
+  ]
 }
